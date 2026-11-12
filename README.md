@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋, I'm @tjrennie</h1>
 
 - 👀 I’m interested in **CMB foreground analysis** and **spinning dust emission**.
-- 🔭 I’m currently working on the **Canadian Galactic Emission Mapper (CGEM)** and the **CO Mapping Array Project (COMAP)**.
-- 🌐 See my [website](https://tjrennie.github.io/) for more details!
+- 🔭 I’m currently working on the **Canadian Galactic Emission Mapper (CGEM)** and the **CO Mapping Array Project (COMAP) Galactic Plane Survey (COMAP-GPS)**.
 
 <!--
 **tjrennie/tjrennie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
